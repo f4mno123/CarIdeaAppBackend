@@ -25,6 +25,7 @@
         "symfony/runtime": "7.0.*",
         "symfony/security-bundle": "7.0.*",
         "symfony/serializer": "7.0.*",
+        "symfony/var-exporter": "7.0.4",
         "symfony/yaml": "7.0.*"
     },
     "require-dev": {
